@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'hustle_portal',
+  title: 'Hustle Portal',
   tagline: 'The tagline of my site',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
