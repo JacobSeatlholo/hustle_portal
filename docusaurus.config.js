@@ -1,6 +1,6 @@
 module.exports = {
   title: 'Hustle Portal',
-  tagline: <img src="~/assets/BHW logo_yt.svg" />,
+  tagline: " A Productivity Tool You Need." />,
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
