@@ -1,6 +1,6 @@
 module.exports = {
-  title: 'Hustle Portal',
-  tagline: " A Productivity Tool You Need." />,
+  title: 'Business Hustle',
+  tagline: "Here to help you process and optimize decisions" />,
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
