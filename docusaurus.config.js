@@ -1,6 +1,6 @@
 module.exports = {
   title: 'Business Hustle',
-  tagline: "Here to help you process and optimize decisions" />,
+  tagline: 'Here to help you process and optimize decisions' />,
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
